@@ -1,0 +1,16 @@
+{
+  "name": "bored",
+  "version": "1.0.0",
+  "description": "Wrapper for the Bored API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewthoennes/Bored-API-Wrapper.git"
+  },
+  "author": "Drew Thoennes <dthoenne@purdue.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^8.0.1",
+    "request": "^2.88.0"
+  }
+}
