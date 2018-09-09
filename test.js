@@ -1,8 +1,7 @@
 let bored = require('./index.js');
 
 bored.random({
-  type: 'education',
-  minprice: '.1'
+  maxprice: '.1'
 }).then(res => {
   console.log(res);
 });
